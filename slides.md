@@ -23,9 +23,9 @@ drawings:
 css: unocss
 ---
 
-# 2022 工作总结
+# 工作总结
 
-Presentation slides for developers
+2022工作总结 及 2023工作规划
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
