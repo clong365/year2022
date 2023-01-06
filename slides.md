@@ -25,7 +25,7 @@ css: unocss
 
 # 工作总结
 
-2022工作总结 及 2023工作规划
+2022工作总结 及 2023重点工作规划
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
